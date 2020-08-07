@@ -2,7 +2,6 @@
 Greetings from Zurich, in specific from the ETH Campus where i spend my days.
 Im a Freshman in Electrical Engineering and Information Technology.
 
-Here are some ideas to get you started:
 
 - 🔭 Im currently working on C microchips and a python bot ideas
 
