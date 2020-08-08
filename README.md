@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey you!
 Greetings from Zurich, in specific from the ETH Campus where i spend my days.
 Im a Freshman in Electrical Engineering and Information Technology.
 
