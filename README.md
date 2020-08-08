@@ -7,3 +7,5 @@ Im a Freshman in Electrical Engineering and Information Technology.
 
 - 🌱 I’m currently learning data handling using Python.
      The goal is to get some basic Data Science skills.
+
+main interests: C++, Python, rapid prototyping using NodeRed and C/Arduino, Datawrangling using DATAIKU, LoRaWan networking
