@@ -1,11 +1,5 @@
-### Hey you!
-Greetings from Zurich, in specific from the ETH Campus where i spend my days.
-Im a Freshman in Electrical Engineering and Information Technology.
+### 
+Greetings from Zurich :)
+Im a Masters student in Data Science at ETH Zurich. 
+My main interests are Machine Learning specifically for Graphs and distributed systems.
 
-
-- 🔭 Im currently working on C microchips and a python bot ideas
-
-- 🌱 I’m currently learning data handling using Python.
-     The goal is to get some basic Data Science skills.
-
-main interests: C++, Python, rapid prototyping using NodeRed and C/Arduino, Datawrangling using DATAIKU, LoRaWan networking
